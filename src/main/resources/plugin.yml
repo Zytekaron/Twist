@@ -1,0 +1,7 @@
+name: Twist
+version: '${version}'
+main: com.zytekaron.minecraft.twist.Twist
+api-version: 1.18
+prefix: Twist
+authors: [ Zytekaron ]
+description: A skeleton for creating manhunt twists
